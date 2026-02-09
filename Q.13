@@ -1,0 +1,3 @@
+# 13. Write code to convert a text string to lowercase.
+text = "AI Is Amazing"
+print(text.lower())
